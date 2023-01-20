@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #E0BEA2;
+    color:#fff;
+}
+.nav-button{
+    background-color: #E0BEA2;
+    color: #fff;
+    border: 1px solid #E0BEA2;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left:270%;
+    box-shadow: 0 0 2px #fff;
+    margin-left: 5px;
+}
+.nav-button span{
+    position: relative;
+    top:0px;
+    left:0px;
+}
